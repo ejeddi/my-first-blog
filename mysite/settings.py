@@ -25,7 +25,7 @@ SECRET_KEY = '(4hpgj8*577nrj32c6iznutco)0*rf&u!r5ttm54uh*f#^#jx5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.ejeddi.pythonanywhere.com/']
+ALLOWED_HOSTS = ['.ejeddi.pythonanywhere.com/', '127.0.0.1']
 
 
 # Application definition
